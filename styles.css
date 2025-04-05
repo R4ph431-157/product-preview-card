@@ -11,7 +11,9 @@ body {
   font-family: "Montserrat", sans-serif;
   padding: 25px 15px;
   min-height: 100vh;
-}
+  display: flex;
+  align-items: center;
+} 
 
 .product-img {
   width: 100%;
@@ -28,7 +30,6 @@ body {
 
 .info-container {
   padding: 10px;
-  /* max-width: 20.6rem; */
 }
 
 .perfume-text {
